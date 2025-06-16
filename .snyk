@@ -3,8 +3,8 @@ version: v.1.25.0
 ignore:
   SNYK-DOTNET-NEWTONSOFTJSON-2774678:
     - '*':
-      reason: Testing snyk file
-      expires: 2025-12-31T23:59:59Z
+        reason: None Given
+        expires: 2026-04-04T17:33:45.004Z
 patch: {}
 exclude:
   global:
